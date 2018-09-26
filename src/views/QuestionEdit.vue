@@ -20,7 +20,7 @@
 <script>
 import axios from 'axios'
 
-let url = 'http://localhost:3000'
+let url = 'http://hacktivoverflowapi.renaldypratama.xyz'
 
 export default {
   props: [ 'id' ],

@@ -9,7 +9,7 @@
 import Card from '@/components/card.vue'
 import axios from 'axios'
 
-let url = 'http://localhost:3000'
+let url = 'http://hacktivoverflowapi.renaldypratama.xyz'
 
 export default {
   components: {
